@@ -7,10 +7,10 @@
 }
 
 #navbar-container {
-  position: relative;
   left: 50%;
-  transform: translateX(-50%);
-  display: block;
+  position: relative;
+  float: left;
+  right: 50%;
 }
 
 #navbar-container ul {
